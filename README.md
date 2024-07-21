@@ -1,2 +1,2 @@
 # git_course
-el primer repositorio
+primer repositorio
